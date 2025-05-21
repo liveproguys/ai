@@ -1,0 +1,3 @@
+regex
+unicodedata
+rapidfuzz

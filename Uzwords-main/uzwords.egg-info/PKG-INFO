@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: uzwords
+Version: 0.1.0
+Summary: O‘zbek tilidagi so‘zlar bilan ishlash uchun kutubxona
+Author: Jahongir
+Author-email: jahongirmutual@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

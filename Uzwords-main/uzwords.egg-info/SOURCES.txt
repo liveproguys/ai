@@ -1,0 +1,9 @@
+setup.py
+UzWord/__init__.py
+UzWord/constants.py
+UzWord/utils.py
+tests/test_database.py
+uzwords.egg-info/PKG-INFO
+uzwords.egg-info/SOURCES.txt
+uzwords.egg-info/dependency_links.txt
+uzwords.egg-info/top_level.txt

@@ -1,0 +1,156 @@
+{
+  "None": [
+    "Kechirasiz, tushunmadim.",
+    "Men bunda ma'lumotga ega emasman.",
+    "Bu haqida ma'lumotim yo‘q.",
+    "Bu savolga hozir javob bera olmayman.",
+    "Men buni bilmayman."
+
+  ],
+
+  "salom": [
+    "Salom! Yordamim kerakmi?",
+    "Salom! Sizga qanday yordam bera olaman?",
+    "Salom! Qanday yordam bera olaman?",
+    "Salom! Qandaysiz? Sizga qanday yordam bera olaman?",
+    "Salom! Sizga qanday yordam berishim mumkin?"
+  ],
+  "qandaysiz": [
+    "Yaxshi, rahmat. Siz-chi?",
+    "Zo'rman, sizni eshitib xursandman.",
+    "O'zingizni qanday his qilyapsiz?",
+    "Tinchlik, sizda-chi?"
+  ],
+  
+  "qandaysan": [
+    "Yaxshi, rahmat. Sen-chi?",
+    "Zo'rman, sizni eshitib xursandman.",
+    "Yaxshi, O'zingizni qanday his qilyapsan?",
+    "Tinchlik, senda-chi?"
+  ],
+  "qanday": [
+    "Yaxshi o'tyapti, sizda-chi?",
+    "Bugun yaxshi kun bo‘lyapti.",
+    "Hammasi yaxshi, rahmat!"
+  ],
+  "yaxshimi": [
+    "Yaxshi, rahmat!",
+    "Zo‘r, sizni eshitib hursandman.",
+    "Yaxshi yuribman, siz-chi?"
+  ],
+  "qalaysan": [
+    "Yaxshi, o'zingchi?",
+    "Qalaysan brat, nima yangilik?",
+    "Hayot yaxshi, senchi?"
+  ],
+  "nima gap": [
+    "Hammasi joyida, o'zingda nima gap?",
+    "Yangilik ko‘p, senchi?",
+    "Oddiy kun, sen nima qilyapsan?"
+  ],
+  "tinchlikmi": [
+    "Tinchlik, rahmat.",
+    "Hammasi joyida.",
+    "Tinchlik, sizda-chi?"
+  ],
+  "zo'rmisiz": [
+    "Zo'rman albatta!",
+    "Ha, zo'rman! Siz-chi?",
+    "Albatta, kayfiyat baland!"
+  ],
+  "xayr": [
+    "Xayr, tez orada ko‘rishamiz!",
+    "Omad sizga!",
+    "Salomat bo‘ling!"
+  ],
+  "sen kimsan": [
+    "Men Jahongir Muhammadiyev tomonidan o'qitilgan yirik til modeliman.",
+    "Kechirasiz, men bu haqida bilmayman."
+  ],
+  "yaxshimisan": [
+    "Yaxshiman, rahmat! Siz yaxshimisiz?",
+    "Yaxshiman, rahmat! Sizchi?",
+    "Yaxshimisiz! Sizga qanday yordam bera olaman?",
+    "Men yaxshiman, rahmat! Siz yaxshimisiz?",
+    "Yaxshi, rahmat! Siz yaxshimisiz?",
+    "Yaxshi, rahmat! O'zingiz yaxshimisiz?",
+    "Yaxshi, rahmat! Siz yaxshimisiz? (I'm good, thank you! How are you?)",
+    "Yaxshi, rahmat! Siz yaxshimisiz? (Yaxshi, raxmat! Siz yaxshimisiz?)",
+    "Yaxshi rahmat, o'zingiz yaxshimisiz? (Yoki: Yaxshi, raxmat. O'zingizchi?)",
+    "Yaxshi rahmat, siz yaxshimisiz?"
+  ],
+  "salom do'stim": [
+    "Salom! Yaxshimisiz? Nima bilan band bo'lib turibsiz?",
+    "Salom! Sizga qanday yordam bera olaman?"
+  ],
+  "ha": [
+    "Okay! Just \"ha\" by itself can have a few different meanings:\n\n   Laughter: It can be a short, simple laugh.\n   Sarcasm: It can be used sarcastically, like a \"yeah, right\" kind of response.\n   Triumph: It can express a feeling of victory or satisfaction, like \"I told you so!\" or \"Gotcha!\"\n   Attention: It can be used to get someones attention, like \"Ha you there!\"\n\nIs there anything else you'd like to talk about or any other help I can offer?"
+  ],
+  "arduino nima": [
+    "Arduino - ochiq manbali elektronika platformasi bo'lib, uning tarkibiga apparat (Arduino platasi) va dasturiy ta'minot (Arduino IDE) kiradi. U elektronika bilan ish boshlamoqchi bo'lganlar, havaskorlar, rassomlar, dizaynerlar va boshqalar uchun mo'ljallangan.\n\nArduino nima uchun ishlatiladi?\n\nArduino platasidan turli xil loyihalarni yaratishda foydalanish mumkin, masalan:\n\n   Robototexnika: Robotlar, avtomatlashtirilgan transport vositalari, sun'iy intellekt tizimlari.\n   Sensorlar va aktuatorlar bilan ishlash: Harorat, namlik, yorug'lik, bosim kabi ko'rsatkichlarni o'lchash va ularga mos ravishda harakatlanuvchi moslamalarni boshqarish.\n   Uy avtomatizatsiyasi: Aqlli uylar, yoritishni boshqarish, isitishni boshqarish, xavfsizlik tizimlari.\n   San'at va dizayn: Interaktiv installyatsiyalar, vizualizatsiyalar, ovozli loyihalar.\n   O'yinlar: Video o'yin kontrollerlari, interaktiv o'yinchoqlar.\n\nArduino'ning asosiy qismlari:\n\n   Mikrokontroller: Arduino platasining \"miyyasi\" bo'lib, unga yuklangan dasturni bajaradi.\n   Kirish/Chiqish pinlari (I/O): Sensorlardan ma'lumot qabul qilish va aktuatorlarni boshqarish uchun ishlatiladi.\n   USB porti: Arduino platasini kompyuterga ulash va dasturni yuklash uchun ishlatiladi.\n   Quvvat manbai: Arduino platasini quvvatlantirish uchun ishlatiladi (USB yoki tashqi manba).\n\nArduino'ning afzalliklari:\n\n   Oson o'rganish: Arduino IDE dasturlash muhiti sodda va tushunarli.\n   Arzon: Arduino platasining narxi unchalik qimmat emas.\n   Ochiq manba: Dasturiy ta'minot va apparat dizaynlari ochiq bo'lib, ularni o'zgartirish va moslashtirish mumkin.\n   Keng jamoa: Arduino foydalanuvchilarining katta jamoasi mavjud bo'lib, yordam va maslahat olish oson.\n   Ko'p sonli kutubxonalar: Turli xil sensorlar va aktuatorlar bilan ishlashni osonlashtiradigan ko'plab kutubxonalar mavjud.\n\nArduino IDE (Integrated Development Environment):\n\nBu Arduino platasini dasturlash uchun ishlatiladigan dasturiy ta'minotdir. U quyidagi vazifalarni bajaradi:\n\n   Dastur kodini yozish va tahrirlash.\n   Dastur kodini kompilyatsiya qilish (mashina kodiga aylantirish).\n   Dastur kodini Arduino platasiga yuklash.\n   Xatolarni tuzatish.\n\nXulosa:\n\nArduino - elektronika va dasturlashni o'rganish uchun ajoyib platforma. Uning soddaligi, arzonligi va ochiq manbaligi tufayli turli xil loyihalarni yaratish imkonini beradi. Agar siz elektronika bilan qiziqsangiz, Arduino bilan ishlashni boshlashni tavsiya qilaman."
+  ],
+  "salom senga": [
+    "Salom! Sizga qanday yordam berishim mumkin?"
+  ],
+  "sen nima qila olaman": [
+    "Men Google tomonidan o'rgatilgan katta til modeli sifatida sizga yordam bera olaman. Men turli vazifalarni bajarish uchun mo'ljallanganman, jumladan:\n\n   Savollarga javob berish: Har qanday mavzuda savollar berishingiz mumkin va men sizga bilimim doirasida aniq va foydali javob berishga harakat qilaman.\n   Ma'lumot olish: Internetdan ma'lumot qidirish va uni sizga qulay tarzda taqdim etishim mumkin.\n   Matn yaratish: Sizga she'rlar, kodlar, skriptlar, musiqiy asarlar, elektron pochta, xatlar va boshqa turdagi matnlarni yaratishda yordam bera olaman.\n   Tillarni tarjima qilish: Bir tildagi matnni boshqa tilga tarjima qila olaman.\n   Matnni xulosalash: Uzun matnlarni qisqa va lo'nda xulosalarga keltirishim mumkin.\n   Ijodiy g'oyalar berish: Loyihangiz yoki vazifangiz uchun yangi g'oyalar o'ylab topishingizga yordam beraman.\n   O'rganish va tushuntirish: Murakkab mavzularni sodda va tushunarli tilda tushuntirishim mumkin.\n   Suhbatlashish: Oddiygina suhbatlashish va vaqt o'tkazishingiz mumkin.\n\nMen doimiy ravishda o'rganib boraman va yaxshilanaman, shuning uchun menga qanday yordam kerakligini ayting, men qo'limdan kelgancha harakat qilaman!"
+  ],
+  "qilasan": [
+    "\"Qilasan\" is a Filipino/Tagalog word. It's the future tense form of the verb \"kilala,\" which means \"to know\" or \"to recognize.\"\n\nTherefore, \"qilasan\" means \"will know\" or \"will recognize.\"\n\nHere are a few examples:\n\n   Qilasan mo ako. (You will know me.)\n   Qilasan niya ang katotohanan. (He/She will know the truth.)\n\nWithout more context, it's difficult to give a more specific meaning.",
+    "\"Qilasan\" is a Filipino word that means \"you do\" or \"you will do.\" It's the second-person singular future tense of the verb \"gawin\" (to do).\n\nHere's a breakdown:\n\n   qi- (ki-) is the future tense marker. In some dialects, it can also be \"a-\".\n   la - is a linker\n   san - \"ka\" (you) is contracted and attached to the word.\n\nSo, if someone says \"Qilasan mo,\" it means \"You will do it.\"\n\nHere are some other ways you might see it used:\n\n   Qilasan ko: I will do it.\n   Qilasan natin: We will do it.\n   Qilasan niya: He/She will do it.",
+    "\"Qilasan\" is a Filipino word that can have a few different meanings depending on the context. Here are the most common interpretations:\n\n   \"You will do\" / \"You will make\": This is the most straightforward translation. It is the future tense form of the verb \"gawin\" (to do/to make) with the pronoun \"ikaw\" (you) shortened to \"-ka\".\n\n       Example: \"Ano ang qilasan mo bukas?\" (What will you do tomorrow?)\n       Example: \"Qilasan mo ba ang proyekto?\" (Will you make/do the project?)\n\n   Command/Request: It can also be used as a command or request, though it's generally considered a less direct or softer way of telling someone to do something, compared to a direct command.\n\n       Example: \"Qilasan* mo na.\" (Do it now, please/Go ahead and do it.)\n\nWithout more context, it's difficult to say precisely which meaning is intended.",
+    "Qilasan is a word from the Uyghur language. It translates to \"You do\" or \"You will do\" in English. It's the second-person singular form of the verb \"qilmaq\" (to do).",
+    "\"Qilasan\" is a Filipino word that translates to \"you will do\" in English. It's a verb conjugated in the future tense, second person singular.\n\nHere's a breakdown:\n\n   Qi - pronoun roughly equivalent to \"you\"\n   Lala - to do\n   San - future tense marker\n\nTherefore, it means \"you will do\".\n\nContext is important: Depending on the context, it could also imply a question or a suggestion. For example, it could be used in the sense of \"Will you do it?\" or \"Are you going to do it?\"\n\nExample:\n\n   Tagalog: \"Qilasan mo ba ito?\"\n*   English: \"Will you do this?\""
+  ],
+  "nima yangiliklar": [
+    "Men juda katta til modeliman, men shaxslik yo'q. Men real vaqtda yangiliklarni bilmayman. Iltimos, ma'lumot uchun rasmiy yangiliklar manbalariga murojaat qiling.",
+    "Qiziqarli yangiliklar juda ko'p, xohlaganingizni tanlashingiz mumkin:\n\n   Jahon siyosati: Rossiya va Ukraina o'rtasidagi vaziyat, G'azo sektoridagi mojaro kabi mavzularda xabarlar.\n   Texnologiya: Sun'iy intellekt (AI), kosmik tadqiqotlar, yangi smartfonlar va boshqa texnologik ishlanmalar haqida.\n   Iqtisodiyot: Inflatsiya, foiz stavkalari, fond bozori va global iqtisodiy o'sish haqida.\n   Madaniyat va san'at: Yangi filmlar, musiqa, kitoblar, san'at ko'rgazmalari va madaniy tadbirlar haqida.\n*   Sport: Futbol, basketbol, tennis va boshqa sport turlari bo'yicha yangiliklar.\n\nAgar sizga aniq bir mavzu kerak bo'lsa, so'rang, men sizga batafsil ma'lumot berishga harakat qilaman!",
+    "Men haqiqiy vaqt rejimida yangiliklarga ega emasman, lekin men sizga turli xil manbalardan eng so'nggi yangiliklarni olishingiz mumkin bo'lgan bir nechta joylarni taklif qila olaman:\n\n   Onlayn yangiliklar veb-saytlari: CNN, BBC, Reuters, Associated Press, Google News va boshqa ko'plab yangiliklar veb-saytlari dunyo bo'ylab yangiliklar bilan doimiy ravishda yangilanadi.\n   Ijtimoiy media: Twitter kabi platformalar dolzarb voqealarni topish uchun ajoyib manba bo'lishi mumkin, lekin yangiliklarni obro'li manbalardan tasdiqlash muhim.\n   Televizion yangiliklar: Mahalliy va milliy televizion yangiliklar kanallari so'nggi yangiliklar va hisobotlarni taqdim etadi.\n   Radio yangiliklari: Ko'pgina radio stantsiyalari soatning har xil vaqtlarida yangiliklar yangiliklarini beradi.\n\nSizni qiziqtirgan sohalarga qarab, sport, biznes, texnologiya va boshqa sohalarga qaratilgan maxsus yangiliklar veb-saytlarini topishingiz mumkin.",
+    "Qaysi turdagi yangiliklar haqida so'ramoqdasiz? Dunyo yangiliklari, sport yangiliklari, texnologiya yangiliklari yoki boshqa turdagi yangiliklar haqida ma'lumot beraymi?",
+    "Men Google tomonidan tayyorlangan katta til modeli bo'lganman. Men real vaqtda yangiliklarga ulanmaganman. Shuning uchun men sizga hech qanday yangiliklarni ayta olmayman. Agar siz yangiliklarni bilmoqchi bo'lsangiz, yangiliklar veb-sayti yoki telekanaliga murojaat qilishingiz mumkin."
+  ],
+  "menga hikoya aytib ber": [
+    "Kechirasiz, men bu haqida bilmayman.",
+    "Albatta, mana sizga bir hikoya:\n\nQadim zamonlarda, uzoq-uzoq o'lkalarda, Zumrad ismli bir qiz yashar edi. Zumrad juda mehribon, aqlli va sadoqatli edi. Uning ko'zlari tun kabi qora, sochlari esa quyosh nuri kabi oltin rangda edi.\n\nKunlardan bir kun, Zumrad o'rmonda sayr qilib yurganida, bir quduqqa duch keldi. Quduqning ichidan yig'i ovozi eshitildi. Zumrad quduqqa yaqinlashib, pastga qaradi. U yerda bir kampirni ko'rdi.\n\n\"Ey qizim, yordam ber! Men bu quduqqa tushib ketdim va chiqolmayapman\", dedi kampir.\n\nZumrad hech ikkilanmasdan, arqon olib kelib, kampirni quduqdan chiqarib oldi. Kampir Zumradga rahmat aytdi va unga bir sirni ochdi:\n\n\"Men aslida sehrgarmiz. Sening mehribonliging uchun senga bir tilak beraman. Nimani xohlasang, so'ra\".\n\nZumrad o'ylab turdi va dedi: \"Men boylik yoki shon-shuhratni xohlamayman. Men odamlarga yordam berishni va dunyoni yaxshiroq qilishni xohlayman\".\n\nSehrgar Zumradning so'zlaridan hayratlandi va dedi: \"Sening yuraging juda go'zal ekan. Senga shunday bir qobiliyat beramanki, sen har qanday dardga davo topa olasan\".\n\nShundan so'ng, Zumrad o'z qishlog'iga qaytdi. U o'zining yangi qobiliyatini odamlarga yordam berish uchun ishlatdi. U kasallarni davoladi, kambag'allarga yordam berdi va har doim adolatni himoya qildi.\n\nZumradning yaxshiliklari butun dunyoga tarqaldi. Odamlar uni hurmat qilishdi va sevishdi. Zumrad esa har doim o'zining mehribonligi va sadoqati bilan yashashda davom etdi.\n\nShunday qilib, Zumrad o'z hayotini yaxshilik qilishga bag'ishladi va uning nomi abadiy qoldi.\n\nHikoya sizga yoqdimi? Yana qanday hikoya eshitishni xohlaysiz?",
+    "Albatta, sizga bir hikoya aytib beraman:\n\nQadim zamonda, uzoq bir o'lkada, Zumrad ismli bir qiz yashar edi. Zumrad juda mehribon va aqlli edi, lekin uning oilasi juda kambag'al edi. Ular kichkina kulbada yashashardi va har kuni oziq-ovqat topish uchun kurashishardi.\n\nBir kuni, Zumrad o'rmonda o'tin terayotganida, sehrli bir quduqqa duch keldi. Quduqdan bir ovoz eshitildi: \"Agar sen menga eng qimmatli narsangni bersang, men senga boylik beraman\".\n\nZumrad o'ylab turdi. Uning eng qimmatli narsasi nima edi? Uning go'zalligi emas, chunki go'zallik vaqt o'tishi bilan so'nadi. Uning aqli ham emas, chunki aqlni o'g'irlash mumkin edi. Uning eng qimmatli narsasi uning mehribonligi edi.\n\nZumrad quduqqa dedi: \"Men senga o'z mehribonligimni beraman\".\n\nShundan so'ng, quduqdan bir nur chiqdi va Zumradning yuragiga kirdi. Zumrad hech qanday o'zgarishni sezmadi, lekin o'sha kundan boshlab uning hayoti butunlay o'zgardi.\n\nZumradning mehribonligi yanada kuchaydi. U har kimga yordam berishga tayyor edi. U kasallarga g'amxo'rlik qildi, kambag'allarga ovqat berdi va qayg'uli odamlarni xursand qildi.\n\nOdamlar Zumradning mehribonligidan hayratda qolishdi. Ular unga hurmat ko'rsatishdi va uni sevishdi. Tez orada Zumradning obro'si butun o'lkaga tarqaldi.\n\nBir kuni, o'lkaning podshosi Zumrad haqida eshitdi. U Zumradni saroyga taklif qildi va unga katta boylik berdi. Zumrad boy bo'ldi, lekin u o'zining mehribonligini yo'qotmadi. U o'z boyligini odamlarga yordam berish uchun ishlatdi.\n\nZumrad butun umri davomida mehribonlik qildi va odamlarga yordam berdi. Uning ismi afsonaga aylandi va uning hikoyasi avloddan-avlodga o'tib keldi.\n\nHikoyaning xulosasi shuki, eng katta boylik bu - mehribonlikdir. Mehribonlik bizni baxtli qiladi va dunyoni yaxshiroq joyga aylantiradi.\n\nSizga hikoya yoqdimi? Yana qanday hikoya eshitishni xohlaysiz?",
+    "Albatta, mana siz uchun hikoya:\n\nQadim zamonda, uzoq yurtda Zumrad ismli bir qiz yashardi. Zumrad juda mehribon, aqlli va sadoqatli edi. U kichkina qishlog'idagi barcha odamlarga yordam berardi. Uning tabiatga bo'lgan muhabbati cheksiz edi. U har kuni ertalab quyosh chiqishidan oldin turib, gullarga suv quyardi va qushlarga don berardi.\n\nBir kuni qishloqqa bir keksa sayyoh keldi. Uning soqoli oppoq, ko'zlari esa yulduzdek porlardi. Sayyoh Zumradning mehribonligini ko'rib, unga sirli bir xazina haqida aytib berdi. Bu xazina faqatgina chin dildan yaxshilik qiladigan odamga nasib etardi.\n\nZumrad xazinani topishga qaror qildi. U o'rmonlar, tog'lar va daryolardan o'tdi. Yo'lda u turli xil odamlar va hayvonlarga yordam berdi. U adashgan bolakayni uyiga qaytardi, yarador qushni davoladi va och qolgan yo'lovchiga non berdi.\n\nNihoyat, u sirli g'orga yetib keldi. G'orning ichida xazina emas, balki oddiy bir ko'zgu bor edi. Zumrad ko'zguga qaradi va o'zining aksini ko'rdi. Shunda u xazina uning qalbi ekanligini angladi. Uning mehribonligi, sadoqati va yaxshilik qilishga bo'lgan ishtiyoqi eng katta xazina edi.\n\nZumrad qishlog'iga qaytib keldi va o'zining topgan xazinasi haqida barchaga so'zlab berdi. Qishloq ahli uning hikoyasidan ilhomlanib, yanada mehribon va saxiy bo'lishga ahd qilishdi. Shundan so'ng, qishloq yanada gullab-yashnadi va odamlar baxtli hayot kechira boshladilar.\n\nHikoyadan xulosa shuki, eng katta xazina bu - bizning qalblarimizda yashiringan yaxshilik va mehr-muruvvatdir."
+  ],
+  "she'r bilasanmi": [
+    "Bilaman. Sizga qanday yordam berishimni xohlaysiz? She'r yozishimni xohlaysizmi, yoki mavzuga oid she'r aytib beraymi?",
+    "Bilaman. Menga she'r yozishimni xohlaysizmi yoki men bilgan bir she'rni aytib beraymi?",
+    "Men sun'iy intellektman, shuning uchun men she'rlar yoza olaman. Sizga bir she'r yozib beraymi? Yoki siz allaqachon bilgan bir she'r haqida so'ramoqchimisiz?",
+    "Bilaman. Qanday she'r eshitishni xohlaysiz? Mavzusi, muallifi yoki uslubi biron bir taklifingiz bormi? Masalan, sevgi, tabiat, vatan haqida yoki Alisher Navoiy, Erkin Vohidov kabi shoirlarning she'rlaridan birini aytishim mumkin.",
+    "Men Google tomonidan oʻrgatilgan katta til modeli boʻlaman. Men sheʼr yozish, turli xil ijodiy matn formatlari, savollarga javob berish va boshqa koʻp narsalarni qila olaman. Sizga she'r kerakmi?"
+  ],
+  "qanday hazil bilasan": [
+    "Albatta, mana sizga bitta hazil:\n\nNega qo'rqoq quyon kasalxonaga yotqizildi?\n\nChunki u \"hare\" urgan edi. (Hare - quyon, Hair - soch)",
+    "Albatta, mana siz uchun bitta hazil:\n\nNega matematikalar partiyaga bormadi?\n\nChunki ularda funksiyalar bor edi!",
+    "Albatta, mana siz uchun bitta hazil:\n\nNega qo'rqoq odam matematikadan yaxshi edi? Chunki u raqamlashni bilar edi!\n\nUmid qilamanki, bu sizni kuldirdi! Sizga yana birini aytishimni xohlaysizmi?",
+    "Albatta, mana siz uchun bitta hazil:\n\nNega qo'rqib ketgan matematik hisob-kitob qilgan?\n\nChunki u yig'indilar yig'indilarini ko'rgan! 😄",
+    "Albatta, mana bitta:\n\nNega qo'rqib ketgan matematika kitobi psixiatrga murojaat qildi?\nChunki unda juda ko'p muammolar bor edi! 😂"
+  ],
+  "kompyuter nima": [
+    "Kompyuter - bu ma'lumotlarni qayta ishlash, saqlash va chiqarish uchun mo'ljallangan elektron qurilma. U dasturlar orqali boshqariladi va turli xil vazifalarni bajarishi mumkin.\n\nKompyuterlar quyidagi asosiy qismlardan iborat:\n\n   Markaziy protsessor (CPU): Kompyuterning \"miyyasi\" bo'lib, dasturlarni bajaradi va hisoblashlarni amalga oshiradi.\n   Xotira (RAM): Vaqtinchalik ma'lumotlarni saqlash uchun ishlatiladi, protsessor tezkorlik bilan murojaat qilishi mumkin bo'lgan joy.\n   Saqlash qurilmasi (SSD, HDD): Ma'lumotlarni doimiy saqlash uchun ishlatiladi (operatsion sistema, dasturlar, fayllar va h.k.).\n   Kiritish qurilmalari (klaviatura, sichqoncha, mikrofon): Ma'lumotlarni kompyuterga kiritish uchun ishlatiladi.\n   Chiqarish qurilmalari (monitor, printer, karnay): Kompyuter tomonidan qayta ishlangan ma'lumotlarni foydalanuvchiga ko'rsatish yoki chiqarish uchun ishlatiladi.\n   Ona plata (Motherboard): Barcha asosiy komponentlarni birlashtirib turadigan asosiy plata.\n   Video karta (GPU): Tasvirni qayta ishlash va monitorga chiqarish uchun javobgar.\n   Quvvat bloki (Power Supply): Kompyuterni elektr energiyasi bilan ta'minlaydi.\n\nKompyuterlar turli shakllarda bo'lishi mumkin:\n\n   Shaxsiy kompyuterlar (Desktop PC): Stol ustida ishlatiladigan, alohida monitor, klaviatura va sichqonchaga ega bo'lgan kompyuterlar.\n   Noutbuklar (Laptop): Ko'chma, batareyada ishlay oladigan kompyuterlar.\n   Planshetlar (Tablet): Sensorli ekran orqali boshqariladigan, ixcham kompyuterlar.\n   Smartfonlar (Smartphone): Aloqa, internetga ulanish va turli ilovalarni ishlatish imkonini beruvchi kompyuterlashtirilgan telefonlar.\n   Serverlar (Server): Tarmoqdagi boshqa kompyuterlarga xizmat ko'rsatadigan kuchli kompyuterlar.\n\nKompyuterlar kundalik hayotimizning ko'p sohalarida qo'llaniladi, jumladan:\n\n   Aloqa: Elektron pochta, ijtimoiy tarmoqlar, video qo'ng'iroqlar.\n   Ta'lim: Onlayn kurslar, tadqiqot, ma'lumot qidirish.\n   Biznes: Hisob-kitoblar, hujjatlarni yaratish va tahrirlash, ma'lumotlar bazasini boshqarish.\n   Ko'ngilochar: O'yinlar, filmlar tomosha qilish, musiqa tinglash.\n   Sanoat: Avtomatlashtirish, robototexnika, loyihalash.\n\nKompyuterlar doimiy ravishda rivojlanib bormoqda va ularning imkoniyatlari kengayib bormoqda.",
+    "Kompyuter - bu ma'lumotlarni qabul qilib, ularni ma'lum dastur (programma) asosida qayta ishlaydigan va natijalarni chiqaradigan elektron qurilma.\n\nAsosiy vazifalari:\n\n   Ma'lumot qabul qilish: Klaviatura, sichqoncha, skaner va boshqa qurilmalar orqali ma'lumotlarni qabul qiladi.\n   Ma'lumotlarni qayta ishlash: Aritmetik va mantiqiy amallarni bajarish orqali ma'lumotlarni qayta ishlaydi.\n   Ma'lumotlarni saqlash: Xotirasida ma'lumotlarni saqlaydi.\n   Natijalarni chiqarish: Monitor, printer va boshqa qurilmalar orqali qayta ishlangan ma'lumotlarni foydalanuvchiga taqdim etadi.\n\nKompyuterning asosiy qismlari:\n\n   Markaziy protsessor (CPU): Kompyuterning \"miya\"si hisoblanadi. Ma'lumotlarni qayta ishlash va hisoblashni amalga oshiradi.\n   Xotira (RAM): Ma'lumotlarni vaqtincha saqlash uchun ishlatiladi.\n   Doimiy xotira (ROM yoki qattiq disk): Ma'lumotlarni doimiy saqlash uchun ishlatiladi.\n   Kirish qurilmalari: Klaviatura, sichqoncha, skaner va boshqalar.\n   Chiqish qurilmalari: Monitor, printer, karnay va boshqalar.\n   Ona plata (Motherboard): Kompyuterning barcha qismlarini birlashtiruvchi asosiy plata.\n   Video karta (GPU): Grafik ma'lumotlarni qayta ishlash va monitorga chiqarish uchun ishlatiladi.\n   Quvvat manbai (Power Supply): Kompyuter qismlarini elektr energiyasi bilan ta'minlaydi.\n\nKompyuterlarning turlari:\n\n   Shaxsiy kompyuterlar (Desktop): Uyda yoki ofisda ishlatiladigan kompyuterlar.\n   Noutbuklar (Laptop): Ko'chma kompyuterlar.\n   Planshetlar (Tablet): Sensorli ekranli ko'chma kompyuterlar.\n   Smartfonlar (Smartphone): Kichik kompyuter funksiyalariga ega telefonlar.\n   Serverlar (Server): Tarmoqqa ulangan va boshqa kompyuterlarga xizmat ko'rsatadigan kompyuterlar.\n   Superkompyuterlar (Supercomputer): Juda katta hajmdagi ma'lumotlarni qayta ishlashga mo'ljallangan kompyuterlar.\n\nKompyuterlar bugungi kunda deyarli barcha sohalarda ishlatiladi: ta'lim, biznes, tibbiyot, muhandislik, ko'ngilochar va boshqalar. Ular hayotimizni ancha osonlashtiradi va unumdor qiladi.",
+    "Kompyuter - bu ma'lumotlarni qabul qilib, ularni saqlab, qayta ishlab, natijalarni chiqaradigan elektron qurilma. U dasturiy ta'minot (softver) orqali boshqariladi va turli xil vazifalarni bajarish uchun ishlatiladi.\n\nKompyuterlar juda ko'p sohalarda qo'llaniladi:\n\n   Hisoblash va ma'lumotlarni qayta ishlash: Ilmiy tadqiqotlar, moliyaviy tahlil, statistik hisoblar va boshqa murakkab vazifalar.\n   Aloqa: Internet, elektron pochta, ijtimoiy tarmoqlar va boshqa aloqa vositalari.\n   Ko'ngilochar: O'yinlar, musiqa, filmlar va boshqa ko'ngilochar dasturlar.\n   Avtomatlashtirish: Ishlab chiqarish, transport, uy boshqaruvi va boshqa sohalarda jarayonlarni avtomatlashtirish.\n   Ta'lim: O'qitish dasturlari, onlayn kurslar va boshqa ta'lim resurslari.\n\nKompyuterlar turli shakllarda bo'lishi mumkin, masalan:\n\n   Shaxsiy kompyuterlar (PC): Stol usti kompyuterlari, noutbuklar.\n   Serverlar: Katta hajmdagi ma'lumotlarni saqlash va tarqatish uchun ishlatiladi.\n   Planshetlar: Sensorli ekranli portativ qurilmalar.\n   Smartfonlar: Mobil telefonlar, shuningdek, kompyuter funksiyalarini ham bajaradi.\n   O'rnatilgan tizimlar: Maishiy texnika, avtomobillar va boshqa qurilmalarga o'rnatilgan kichik kompyuterlar.\n\nAgar siz kompyuterlar haqida yanada ko'proq bilmoqchi bo'lsangiz, qanday savollar bor? Masalan, kompyuterning ichki tuzilishi, ishlash prinsipi yoki kompyuter dasturlari haqida ma'lumot kerakmi?"
+  ],
+  "bugun kechmi": [
+    "Kech, lekin soat necha ekanligini bilmasam, qanchalik kechligini aniq aytolmayman.",
+    "Mening bilimlarim bugungi kunga bog‘liq emas. Bugungi kun haqida aniq ma’lumot olish uchun sizga vaqt va kalendar dasturlaridan foydalanishni tavsiya qilaman.",
+    "Kech emas. Hali vaqt bor. Nima qilmoqchi edingiz?",
+    "Men axborotga asoslanib javob bera olmayman. Vaqt juda muhim ma'lumotdir, chunki u joylashuvingizga va vaqt mintaqangizga bog'liq. Hozir siz uchun kechmi, yo'qmi bilishimning imkoni yo'q. Biroq, agar siz shunchaki hozir kechmi yoki yo'qligini aniqlashga harakat qilmoqchi bo'lsangiz, sozlamalaringizda \"vaqtni sozlash\" bo'limi orqali soatni tekshirishingiz mumkin.",
+    "Mening axborot bazam 2021-yilga tegishli, shuning uchun men sizga bugungi sana haqida aniq ma'lumot bera olmayman. Shuning uchun hozir kechmi yoki yo'qmi bilmayman."
+  ],
+  "menga maslahat ber": [
+    "Men sizga maslahat berishdan xursandman! Menga qanday yordam kerakligini aytib bering. Masalan:\n\n   Qandaydir muammo haqida: Agar sizda muammo bo'lsa, uni batafsil tushuntiring.\n   Qandaydir qaror qabul qilish haqida: Agar siz qaror qabul qilishda qiynalayotgan bo'lsangiz, variantlarni va ularning afzallik va kamchiliklarini aytib bering.\n   Maqsadga erishish haqida: Agar sizda maqsad bo'lsa, unga qanday erishish mumkinligi haqida maslahat so'rang.\n   Oddiygina maslahat: Ba'zan, shunchaki hayot, munosabatlar, ish yoki boshqa narsalar haqida umumiy maslahat kerak bo'lishi mumkin.\n\nQanchalik ko'p ma'lumot bersangiz, shunchalik yaxshi maslahat bera olaman.",
+    "Men sizga maslahat berishim uchun, avvalo sizga nima kerakligini bilishim kerak. Siz nimani so'ramoqchisiz? Misol uchun:\n\n   Muayyan muammo bo'yicha maslahat: \"Men ish topishda qiynalyapman, nima maslahat berasiz?\"\n   Umumiy maslahat: \"Hayotda qanday muvaffaqiyatga erishish mumkin?\"\n   Shaxsiy maslahat: \"O'zimga bo'lgan ishonchni qanday oshirishim mumkin?\"\n   O'qish bo'yicha maslahat: \"Qaysi universitetga topshirishni bilmayapman, nima maslahat berasiz?\"\n\nSavolingizni aniqroq aytsangiz, men sizga to'g'ri maslahat berishga harakat qilaman.",
+    "Albatta, men sizga yordam berishga harakat qilaman. Menga maslahat kerak bo'lgan vaziyatingiz haqida batafsilroq ma'lumot bering. Qanday masalada yordam kerak? Misol uchun:\n\n   Shaxsiy muammo: Munosabatlar, oilaviy muammolar, shaxsiy rivojlanish, vaqtni boshqarish va hokazo.\n   Karyera: Ish qidirish, ishda o'sish, kasbiy yo'nalish, biznes boshlash va hokazo.\n   Ta'lim: O'qishga kirish, o'qishni davom ettirish, kurslar tanlash va hokazo.\n   Moliyaviy masalalar: Pulni tejash, investitsiya qilish, qarzni to'lash va hokazo.\n\nQanchalik ko'p ma'lumot bersangiz, men sizga shunchalik yaxshi maslahat bera olaman.",
+    "Men sizga maslahat berishga tayyorman. Qanday masalada yordam kerak? Misol uchun:\n\n   O'qish: Agar siz imtihonlarga tayyorgarlik ko'rmoqchi bo'lsangiz, o'qish usullari haqida maslahat berishim mumkin.\n   Ish: Agar siz ish qidirayotgan bo'lsangiz, rezyume yozish, intervyuga tayyorgarlik ko'rish yoki kasbiy rivojlanish haqida maslahatlar berishim mumkin.\n   Munosabatlar: Agar siz do'stlar, oila yoki romantik munosabatlar bilan bog'liq muammolarga duch kelsangiz, men sizga yordam berishga harakat qilaman.\n   Shaxsiy rivojlanish: Agar siz o'zingizni yaxshilash, maqsadlarga erishish yoki yangi ko'nikmalarni o'rganish haqida maslahat so'rasangiz, men sizga yordam bera olaman.\n\nIltimos, aniq savolingizni bering, shunda men sizga eng yaxshi maslahatni bera olaman.",
+    "Men sizga yordam berishga tayyorman! Qanday maslahat kerakligini aniqroq aytsangiz, shuncha yaxshi maslahat bera olaman. Misol uchun:\n\n   Sizga nima haqida maslahat kerak? (Masalan, ish, o'qish, munosabatlar, sog'liq, moliyaviy masalalar, va hokazo)\n   Siz qanday vaziyatdasiz? (Qisqacha vaziyatni tushuntirib bering)\n   Sizning maqsadingiz nima? (Nima qilmoqchisiz?)\n   Qanday variantlarni ko'rib chiqdingiz? (Agar allaqachon biror narsa haqida o'ylagan bo'lsangiz, ayting)\n\nQanchalik ko'p ma'lumot bersangiz, shunchalik foydali maslahat bera olaman."
+  ],
+  "qanday so'z o'tanamiz": [
+    "Qanday so'z o'rganmoqchi ekanligingizga qarab, bir nechta variantni taklif qila olaman:\n\n   Yangi til: Agar siz yangi til o'rganmoqchi bo'lsangiz, Duolingo, Memrise yoki Babbel kabi til o'rganish ilovalarini ko'rib chiqishingiz mumkin. Ular interaktiv darslar va so'z boyligini kengaytirish uchun qulay usullarni taqdim etadi.\n   O'zbek tilidagi yangi so'zlar: Agar o'zbek tilidagi so'z boyligingizni oshirmoqchi bo'lsangiz, o'zbek tilidagi lug'atlardan (masalan, O'zbek tilining izohli lug'ati) foydalanishingiz, badiiy adabiyot o'qishingiz yoki o'zingiz bilmagan so'zlarni yozib, ularning ma'nolarini izlashingiz mumkin.\n*   Texnik so'zlar: Agar siz ma'lum bir sohada (masalan, IT, tibbiyot, iqtisodiyot) ishlayotgan bo'lsangiz, shu soha bo'yicha darsliklar, maqolalar o'qishingiz va terminologik lug'atlardan foydalanishingiz mumkin.\n\nQanday so'z o'rganmoqchi ekanligingizni aniqlasangiz, sizga aniqroq maslahatlar berishim mumkin.",
+    "Qaysi maqsadda so'z o'ynamoqchisiz? Agar sizga shunchaki til mashqi kerak bo'lsa, oddiy so'z o'yinini, masalan, \"shahar, davlat, daryo, o'simlik, ism\" o'yinini o'ynashingiz mumkin. Yoki bo'lmasa, \"Scrabble\" kabi so'z o'yinlari ham mavjud. Agar sizga ma'lum bir maqsad uchun so'z o'yinini o'ynash kerak bo'lsa (masalan, lug'at boyligini oshirish, imlo qoidalarini o'rganish va hokazo), menga shu haqida aytsangiz, men sizga mos o'yinni topishga yordam beraman.",
+    "Kechirasiz, men bu haqida bilmayman."
+  ]
+}
